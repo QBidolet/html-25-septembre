@@ -4,12 +4,16 @@ B - Un dossier sur votre ordinateur qui stocke les fichiers importants
 C - Une collection mondiale de différents sites Web
 D - Un type de navigateur Web
 
+Réponse : A
+
 Q2 - Parmi les actions suivantes, lesquelles pouvez-vous effectuer en ligne ? Choississez tout ce qui s'y rapporte.
 
 A - Payer les factures et gérer les comptes bancaires
 B - Utiliser les moteurs de recherche pour trouver des informations
 C - Regarder des films et des émissions de télévision
 D - Envoyer et recevoir des e-mails et des messages instantanés
+
+Réponses : A - B - C - D
 
 Q3 - Lequel des éléments suivants n'est PAS un navigateur Web ?
 
@@ -18,19 +22,23 @@ B - Chrome
 C - Edge
 D - Firefox
 
+Répone : A
 
 Q4 - Si un fichier est stocké dans le cloud mais que vous souhaitez le copier sur votre ordinateur, vous devrez le ________.
 
 A - Télécharger
-B - télécharger
+B - Téléverser
 C - imprimer
 D - signet
 
+A
 
 Q5 - Vrai ou faux : Vous pouvez généralement omettre www. lors de la saisie d'une URL dans votre navigateur Web.
 
 A - Vrai
 B - Faux
+
+Réponse : A
 
 Q6 - A quoi sert un routeur ?
 
@@ -39,12 +47,16 @@ B - S'assurer que vos informations personnelles sont sécurisées
 C - Alimenter l'ordinateur
 D - Connecter plusieurs appareils à une seule connexion Internet
 
+Réponse : D
+
 Q7 - Qu'est-ce que le Wi-Fi ?
 
 A - Un type de logiciel qui recherche les virus
 B - Un type de carte son
 C - Un boîtier d'ordinateur extra-large utilisé par les serveurs
 D - Une connexion réseau sans fil
+
+Réponse : D
 
 Q8 - À quoi servent principalement les onglets du navigateur ?
 
@@ -53,9 +65,13 @@ B - Affichage de deux pages Web côte à côte
 C - Sélection d'un réseau Wi-Fi auquel se connecter
 D - Veiller à ce que vos informations personnelles ne puissent pas être vues par des pirates
 
+Réponse : A
+
 Q9 - En parlant du Web, "lien" est une abréviation pour ________.
 
 A - blien
 B - superlien
 C - lien chainé
 D - lien hypertexte
+
+Réponse : D

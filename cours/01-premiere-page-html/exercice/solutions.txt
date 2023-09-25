@@ -1,0 +1,14 @@
+1. top100.html à genres.html
+genres/genres.html
+
+2. top100.html à logo.png
+images/logo.png
+
+3. genres.html à logo.png
+../images/logo.png
+
+4. top100.html à pinkfloyd.html
+genres/rock/pinkfloyd.html
+
+5. coldplay.html à chris.png
+../../images/artistes/chris.png

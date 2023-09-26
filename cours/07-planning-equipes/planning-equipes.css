@@ -1,0 +1,14 @@
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid;
+    width: 150px;
+    padding: 5px;
+}
+
+.first-column {
+    background-color: aliceblue;
+}

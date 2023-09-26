@@ -1,0 +1,17 @@
+/* Fichier CSS de salle-classe.html */
+
+body {
+    font-family: sans-serif;
+}         
+
+h1 {
+    color: red;
+}  
+
+h2 {
+    color: gray;
+}
+
+p {
+    color: blue; 
+}

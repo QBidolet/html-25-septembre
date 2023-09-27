@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <title>Boutique M2i</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="boutique-m2i.css">
+    </head>
+    <body>
+        <h1>Boutique M2i</h1>
+        <h2>Commandez votre café en ligne</h2>
+        <form action="https://cafem2i.com/order.php" method="POST">
+            <p>
+                Choississez votre type de café.
+                <select name="pays">
+                    <option value="bresil">Brésil</option>
+                    <option value="mexique">Mexique</option>
+                    <option value="kenya">Kenya</option>
+                </select>
+            </p>
+            <p>
+                Type :
+                <input type="radio" name="typegrains" value="grains">Grains
+                <input type="radio" name="typegrains" value="moulu">Moulu
+            </p>
+            <p>
+                Nombre de sachet : <input type="number" name="sachets" min="1" max="10" value="1">
+            </p>
+            <p>
+                Date : <input type="date" name="date">
+            </p>
+            <p>
+                <span class="livraison">Livraison</span><br>
+                Nom
+                <input type="text" name="nom"><br>
+                Adresse
+                <input type="text" name="adresse"><br>
+                Commentaires<br>
+                <textarea id="commentaires" name="commentaires"></textarea>
+            </p>
+            <p>
+                <input type="checkbox" name="epice" value="sel">Sel
+                <input type="checkbox" name="epice" value="poivre">Poivre
+            </p>
+            <!-- <button type="submit">Passer la commande</button> -->
+            <input type="submit" value="Passer la commande">
+        </form>
+    </body>
+</html>

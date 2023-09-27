@@ -1,0 +1,52 @@
+/* Reset le CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1, h2, h3 {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 2em;
+    margin-top: 30px;
+    color: #555;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-top: 20px;
+    color: #777;
+}
+
+p{
+    margin-bottom: 20px;
+    font-size: 1em;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    object-fit: auto;
+}
+
+a {
+    color: #0077cc;
+    text-decoration: none;
+}

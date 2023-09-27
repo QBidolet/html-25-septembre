@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Festival Virtuel de Musique 2023</title>
+    <!-- <link rel="stylesheet" href="index.css"> -->
+</head>
+<body>
+    <header>
+        <h1>Festival Virtuel de Musique 2023</h1>
+        <nav>
+            <a href="#">Accueil</a>
+            <a href="#">Artistes</a>
+            <a href="#">Programme</a>
+            <a href="#">Billets</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+    <main>
+   
+    <section>
+        <article>
+            <h2>Concept du Festival</h2>
+            <p>Bienvenue au premier festival de musique entièrement virtuel ! Profitez de performances incroyables depuis le confort de votre maison.</p>
+        </article>
+        <ul>
+            <li>Artiste A</li>
+            <li>Artiste B</li>
+            <li>Artiste C</li>
+            <li>Artiste D</li>
+            <li>Artiste E</li>
+        </ul>
+        <table>
+            <tr>
+                <th>Heure</th>
+                <th>Artiste</th>
+                <th>Scène</th>
+            </tr>
+            <tr>
+                <td>10:00</td>
+                <td>Artiste A</td>
+                <td>Scène 1</td>
+            </tr>
+            <!-- Ajoutez d'autres lignes similaires pour les autres artistes -->
+        </table>
+        <!-- <video controls>
+            <source src="path_to_video.mp4" type="video/mp4">
+            Votre navigateur ne supporte pas la vidéo.
+        </video> -->
+    </section>
+    <section>
+        <form action="/submit" method="post">
+            <div>
+                <label for="nom">Nom:</label>
+                <input type="text" id="nom" name="nom" required>
+            </div>
+            <div>
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div>
+                <label for="sujet">Sujet:</label>
+                <input type="text" id="sujet" name="sujet" required>
+            </div>
+            <div>
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+            </div>
+            <div>
+                <input type="checkbox" id="rgpd" name="rgpd">
+                <label for="rgpd">J'autorise l'utilisation de mes données pour des fins marketing (conformité RGPD).</label>
+            </div>
+            <button type="submit">Envoyer</button>
+        </form>
+    </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Festival Virtuel de Musique</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,27 @@
+/*
+    Flexbox : 2 étapes.
+    1ere étape : Mettre le container en display: flex.
+*/
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.block {
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+}
+
+.block-1 {
+    /* flex-grow: 1; */
+}
+
+.block-2 {
+    /* flex-grow: 1; */
+}
+
+.block-3 {
+    /* flex-grow: 2; */
+}

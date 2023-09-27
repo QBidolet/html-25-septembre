@@ -1,0 +1,32 @@
+.block {
+    width: 23%;
+    margin-top: 1%;
+    padding: 20px;
+    text-align: center;
+    background-color: aqua;
+}
+
+p {
+    background-color: beige;
+}
+
+.container {
+    width: 50%;
+    float: left;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.none {
+    float: none;
+}
+
+.inherit {
+    float: inherit;
+}

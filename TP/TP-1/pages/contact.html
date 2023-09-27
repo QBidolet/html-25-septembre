@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <title>Contact</title>
+        <link rel="stylesheet" href="../css/contact.css">
+    </head>
+    <body>
+        <h1>Contactez-nous</h1>
+        <form action="/submit" method="POST">
+            <div class="input-group">
+                <label for="nom">Nom :</label>
+                <input id="nom" type="text" name="nom" required placeholder="DUPONT">
+            </div>
+            <div class="input-group">
+                <label for="prenom">Prénom :</label>
+                <input id="prenom" type="text" name="prenom" required placeholder="Jean">
+            </div>
+            <div class="input-group">
+                <label for="email">E-mail :</label>
+                <input id="email" type="email" name="email" required placeholder="votre-adresse@mail.com">
+            </div>
+            <div class="input-group">
+                <label for="societe">Société :</label>
+                <input id="societe" type="text" name="societe" required placeholder="votre société">
+            </div>
+            <div class="input-group">
+                <label for="telephone">Téléphone :</label>
+                <input id="telephone" type="tel" name="telephone" required placeholder="06 02 02 05 08">
+            </div>
+            <div class="input-group">
+                <label for="message">Votre message :</label>
+                <textarea id="message" type="text" name="message" rows="4" required  placeholder="Votre message"></textarea>
+            </div>
+            <div class="input-group">
+                <label for="rgpd">RGPD :</label>
+                <input id="rgpd" type="checkbox" name="rgpd" required>
+            </div>
+            <button type="submit">Envoyer</button>
+        </form>
+    </body>
+</html>
